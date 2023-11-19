@@ -1,0 +1,521 @@
+.header {
+    width: 595px;
+    height: 86px;
+   
+    background: #F5F5F5;
+    border-bottom: 1px #7662B3 solid;
+    width: 595px;margin: auto;
+    position: relative;
+  }
+  .lab{
+    margin-left: 450px; margin-top: 25px;color: #7662B3;
+    font-size:10px ;    font-weight: 600;    line-height: 16.52px;
+    position: absolute;
+
+
+  }
+
+  .Date {
+    text-align: center;
+    color: #7662B3;
+    font-size: 10px;
+    font-family: Open Sans;
+    font-weight: 600;
+    line-height: 16.52px;
+    margin-left: 300px;
+    margin-top: 10px;
+  }
+
+  .num{
+    margin-left:455px;margin-top: 15px;color: #7662B3;    font-size: 10px;
+
+  }
+
+
+  .logo{
+
+    top: 10px; margin-left: 10px;position: absolute;
+
+  }
+  .table1{
+    width: 518px; height: 47px;  margin-top: 230px;margin-left: 39px; position: relative;
+  }
+ 
+
+  .itm {
+    align-self: stretch;
+    justify-content: flex-start;
+    gap: 10px;
+    margin-left: 35px;
+    margin-top: 120px;
+    display: flex;
+    position: relative;
+
+  }
+  
+  .hotel{
+    width: 518px;margin-left: 30px;  margin-top: 310px; 
+    
+     justify-content: space-between; align-items: center; display: inline-flex;
+     position:relative;
+  }
+  
+ 
+  
+  
+  .tab1{
+    width: 518px; ;margin-left: 39px;margin-top: 141px; position: relative;
+  }
+ .bor1 {
+
+    width: 518px;margin-top: 22px;  position: relative; border: 0.25px #989898 dotted
+}
+
+.bor4{
+  width: 93px; height: 0px;margin-left: 30px; left: 309px;margin-top: 170px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 0.25px #989898 dotted;
+}
+.bor5{
+  width: 93px; height: 0px;margin-left: 250px; margin-top: 145px; 
+  position:absolute; transform: rotate(90deg); transform-origin: 0 0; border: 0.25px #989898 dotted
+}
+
+.bor6{
+  width: 93px; height: 0px;margin-left: 145px; margin-top: 120px; 
+  position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 0.25px #989898 dotted
+}
+.bor7{
+  width: 50px; height: 0px;margin-left: 140px; margin-top: 180px; 
+  position:absolute; transform: rotate(90deg); transform-origin: 0 0; border: 0.25px #989898 dotted
+}
+
+.bor8 {
+  width: 50px; height: 0px;margin-left: 250px; margin-top: 155px; 
+  position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 0.25px #989898 dotted
+}
+.bor9 {
+  width: 50px; height: 0px;margin-left: 250px; margin-top: 230px; 
+  position:absolute; transform: rotate(90deg); transform-origin: 0 0; border: 0.25px #989898 dotted
+}
+.bor10 {
+  width: 50px; height: 0px;margin-left: 160px; margin-top: 205px; 
+  position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 0.25px #989898 dotted
+}
+
+
+.bord1{
+  width: 518px;margin-top: 225px;margin-left: 39px;  position: absolute; border: 0.25px #989898 dotted
+
+}
+
+.Passport,.Datei
+{
+  margin-left: 45px; font-weight: 700;position: relative;
+}
+.Dateof{
+  margin-left:35px; font-weight: 700;position: relative;
+
+}
+.DateB{
+
+margin-left: 27px; font-weight: 700;position: relative;
+}
+
+.num1{
+  left: 130px; top: 26px; position:relative;font-weight: 400;
+}
+.Date1{
+  left: 170px; top: 26px; position: relative; font-weight: 400;
+}
+.Date2
+{
+  left: 300px; top: 26px; position: relative;  font-weight: 400;
+}
+.Date3{
+  margin-left:135px; top: 26px; position: relative;  font-weight: 400;
+}
+
+
+  
+  .circle {
+    width: 17px;
+    height: 17px;
+    position: absolute;
+    background: #7662B3;
+    border-radius: 9999px;
+  }
+  .Fligth{
+    margin-top: 120px ; margin-left: 39px;width: 518px; 
+    
+    justify-content: space-between; align-items: center; display: inline-flex;
+    position:relative;
+  }
+  
+ 
+  
+  .info-label {
+    color: #989898;
+    font-size: 15px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 10px;
+    word-wrap: break-word;
+  }
+  
+ 
+  .table{
+    width: 518px; height: 93px; left: 39px; top: 141px; 
+    color: #1D1D1D; font-size: 10px; 
+    font-family: Open Sans; font-weight: 700; line-height: 16.52px; position: relative;
+  }
+  
+   
+  
+  
+  div:nth-of-type(1) {
+    left: 7px;
+    top: 1px;
+    font-weight: 700;
+    position: absolute;
+  }
+  
+  div:nth-of-type(2) {
+    left: 7px;
+    top: 26px;
+    font-weight: 400;
+    position: absolute;
+  }
+  
+  div:nth-of-type(3) {
+    left: 7px;
+    top: 51px;
+    font-weight: 400;
+    position: absolute;
+  }
+  
+  div:nth-of-type(4) {
+    left: 7px;
+    top: 76px;
+    font-weight: 400;
+    position: absolute;
+  }
+  
+  div:nth-of-type(5) {
+    left: 190px;
+    top: 1px;
+    position: absolute;
+    font-weight: 700;
+  }
+  
+  div:nth-of-type(6) {
+    left: 190px;
+    top: 26px;
+    position: absolute;
+    font-weight: 400;
+  }
+  
+  div:nth-of-type(7) {
+    left: 190px;
+    top: 51px;
+    position: absolute;
+    font-weight: 400;
+  }
+  
+  div:nth-of-type(8) {
+    left: 190px;
+    top: 76px;
+    position: absolute;
+    font-weight: 400;
+  }
+  
+  div:nth-of-type(9) {
+    left: 317px;
+    top: 1px;
+    position: absolute;
+    font-weight: 700;
+  }
+  
+  div:nth-of-type(10) {
+    left: 317px;
+    top: 26px;
+    position: absolute;
+    font-weight: 400;
+  }
+  
+  div:nth-of-type(11) {
+    left: 317px;
+    top: 51px;
+    position: absolute;
+    font-weight: 400;
+  }
+  
+  div:nth-of-type(12) {
+    left: 317px;
+    top: 76px;
+    position: absolute;
+    font-weight: 400;
+  }
+  
+  div:nth-of-type(13) {
+    left: 424px;
+    top: 1px;
+    position: absolute;
+    font-weight: 700;
+  }
+  
+  div:nth-of-type(14) {
+    left: 424px;
+    top: 26px;
+    position: absolute;
+    font-weight: 400;
+    line-height: 16.52px;
+  }
+  
+  div:nth-of-type(15) {
+    left: 424px;
+    top: 51px;
+    position: absolute;
+    font-weight: 400;
+  }
+  
+  div:nth-of-type(16) {
+    left: 424px;
+    top: 76px;
+    position: absolute;
+    font-weight: 400;
+  }
+  
+  
+   
+    .item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      margin-right: 20px;
+    }
+  
+  
+    
+    .number {
+      position: absolute;
+      left: 4px;
+      margin-bottom: 5px;
+      color: white;
+      font-size: 8px;
+      font-family: Open Sans;
+      font-weight: 500;
+      line-height: 16.52px;
+    }
+    .Guests{
+      margin-left: 390px;
+    }
+    .Adults{
+      margin-left:330px ;
+    }
+  .guest-details
+{
+  margin-top: 20px;
+}
+.guest-details1{
+  margin-top: 485px; margin-left: 35px; 
+}
+.email2{
+  color: #1D1D1D; margin-top:545px;font-weight: 600;
+}
+.line1{
+  width:512px;border: 0.25px #CA8C2B dotted ;margin-top: 600px; margin-left: 35px;
+}
+.text1{
+  font-size: 10px;  font-weight: 600; line-height: 13.21px;position:relative;margin-left:35px; 
+
+}
+.text2{
+  color: #989898;margin-top: 590px;
+}
+.text3{
+  color: #1D1D1D;margin-top: 581px; 
+}
+.text4{
+
+width: 100%; color: #989898;font-weight: 400;margin-top:582px 
+
+}
+    .text {
+      color: #7662B3;
+      font-size: 10px;
+      font-family: Open Sans;
+      font-weight: 600;
+      line-height: 16.52px;
+      margin-left: 50px;
+    }
+  
+    .label {
+      color: #989898;
+      font-size: 8px;
+      font-family: Open Sans;
+      font-weight: 400;
+      line-height: 13.21px;
+      margin-left: 250px;
+    }
+  
+    .value {
+      color: #1D1D1D;
+      font-size: 10px;
+      font-family: Open Sans;
+      font-weight: 400;
+      line-height: 16.52px;
+      margin-left: 5px;
+    }
+  
+    .room-description {
+      position: sticky;
+      gap: 2px;
+    }
+  
+    .room-info {
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      align-items: flex-start;
+  
+    }
+  
+    .room-number {
+      color: #989898;
+      font-size: 10px;
+      font-family: Open Sans;
+      font-weight: 600;
+      line-height: 16.52px;
+      position: sticky;
+    }
+  
+  
+    .guest-info {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      margin-top: 2px;
+    }
+  
+    
+  
+    .guest-label {
+      color: #989898;
+      font-size: 8px;
+      font-family: Open Sans;
+      font-weight: 400;
+      line-height: 13.21px;
+      display: block;
+      margin-bottom: 2px;
+      margin-top: 4px;
+      position: relative;
+    }
+  
+    .guest-count {
+      color: #1D1D1D;
+      font-size: 8px;
+      font-family: Open Sans;
+      font-weight: 600;
+      line-height: 13.21px;
+      display: block;
+      
+    }
+    
+    
+  
+    .guest-label {
+      color: #989898;
+      font-size: 8px;
+      font-family: Open Sans;
+      font-weight: 400;
+      line-height: 13.21px;
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      gap: 2px;
+    }
+    .guest-name {
+      color: #7662B3;
+      font-size: 10px;
+      font-family: Open Sans;
+      font-weight: 600;
+      line-height: 16.52px;
+      word-wrap: break-word;
+    }
+    .email{
+      color: #1D1D1D; font-size: 9px;  font-weight: 400; line-height: 13.21px; margin-top:80px;
+    }
+    .email2{
+      margin-top: 570px;
+    }
+    .email-info {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+      display: inline-flex;
+    }
+  .room-info1{
+    margin-top: 455px; margin-left: 35px;
+  }
+   
+    .rectangle {
+      
+       height: 100px;
+       background: #F5F5F5;
+       border-top: 1px solid #7662B3;
+       display: flex;
+       
+      margin-top:710px; 
+    }
+    
+    .content {
+       color: #7662B3; font-size: 10px; 
+       font-weight: 600; line-height: 16.52px; margin-left: 260px;
+    }
+    .content1
+    {color: #1D1D1D; 
+      font-size: 10px;
+       font-weight: 600; line-height: 16.52px; margin-left: 50px;
+
+    }
+    .num2{
+      margin-left:400px ;
+    }
+    .rectangle{
+      width: 595px;margin-top: 830px;padding: 60px;position: relative;
+    }
+
+    .rectangle1{
+      width: 595px; padding: 30px; background: #7662B3;top:950px; 
+      border-bottom: 1px #7662B3 solid;margin-top: 920px; position: relative;
+    }
+
+    .thank{
+      color: white; font-size: 10px;font-weight: 600; 
+      line-height: 16.52px;top: 980px; margin-left: 40px;margin-top: 970px;
+    }
+
+
+    .line1{
+      width: 552px;margin-top: 280px;  border: 1px #7662B3 solid ;margin-left: 22px;
+    }
+    .line2{
+      width: 552px;margin-top:760px; border: 1px #7662B3 solid ;margin-left: 22px;
+    }
+    .line3{
+      width:465px;border: 0.25px #CA8C2B dotted ;margin-top: 850px; margin-left: 50px;margin-right: 50px;
+    }
+    .line4{
+      width:510px;border: 0.25px #CA8C2B dotted ;margin-top: 450px; margin-left: 40px;margin-right:40px;
+    }
+    .line{
+      width:510px;border: 0.25px #CA8C2B dotted ;margin-top: 600px; margin-left: 40px;margin-right:40px;
+    }
+   
+
+    .iconh{
+      margin-left: 30px;position: absolute;
+    }
+    .iconf{
+        width: 10px; height:15px;margin-left: 30px;position: absolute;
+    }
